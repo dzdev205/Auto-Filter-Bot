@@ -3,7 +3,7 @@ tgcrypto
 pymongo[srv]>=3.12
 motor>=3.6
 marshmallow
-umongo==2.3.1
+umongo>=2.3.1
 pytz
 git+https://github.com/Joelkb/cinemagoer
 shortzy
